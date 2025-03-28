@@ -1,6 +1,4 @@
-Here’s your updated GitHub bio with a fresh new title:  
 
----
 
 # 🚀 **Code, Creativity & Controlled Chaos**  
 
